@@ -42,7 +42,7 @@ class Gfunc(object):
                 return dgdq
             else:
                 if param is None:
-                    return self.dgdq(x, self.param)
+                    return self.dgdq(x)
                 else:
                     return self.dgdq(x, param)
         else:
