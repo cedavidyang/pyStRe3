@@ -19,7 +19,7 @@ class Gfunc(object):
     def g_value(self, x, param=None):
         if self.gftype == 'userfunc':
             if param is None:
-                return self.gfunc(x, self.param)
+                return self.gfunc(x)
             else:
                 return self.gfunc(x, param)
         else:
