@@ -4,3 +4,5 @@ The pacakge was originally developed with Python2 and has since updated to Pytho
 
 * [FERUM 4.1](https://ferum.limos.fr/index.html)
 * TNO custom version: [repo](https://github.com/TNO/custom_FERUM)
+
+License: GNU Affero General Public License Version 3 (AGPLv3)
